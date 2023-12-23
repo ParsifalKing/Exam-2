@@ -1,0 +1,4 @@
+C:\Users\lenov\OneDrive\Desktop\C#\Exams\Exam 2\task 2\obj\Debug\net8.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\OneDrive\Desktop\C#\Exams\Exam 2\task 2\obj\Debug\net8.0\task 2.AssemblyInfoInputs.cache
+C:\Users\lenov\OneDrive\Desktop\C#\Exams\Exam 2\task 2\obj\Debug\net8.0\task 2.AssemblyInfo.cs
+C:\Users\lenov\OneDrive\Desktop\C#\Exams\Exam 2\task 2\obj\Debug\net8.0\task 2.csproj.CoreCompileInputs.cache
